@@ -22,8 +22,7 @@ module.exports = {
   resolve: {
     alias: {
       components: path.join(__dirname, 'src/components'),
-      constants: path.join(__dirname, 'src/constants'),
-      containers: path.join(__dirname, 'src/containers')
+      constants: path.join(__dirname, 'src/constants')
     }
   },
   devtool: 'eval'

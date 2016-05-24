@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import Axios from 'axios';
 
 import Button from 'components/Button';
-import Character from 'containers/Character';
+import Character from 'components/Character';
 
 import { characters } from 'constants/App'; 
 
