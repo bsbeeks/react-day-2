@@ -3,6 +3,7 @@
 We're going to use the SWAPI API (http://swapi.co) to create a simple application. This app will illustrate the component lifecycle, updating state, how to use props, and how to get and store data from a REST API.
 
 ## INITIAL RENDER
+- [ ] Clone the repo and run `npm install`
 - [ ] Run the app and a server to server up the index.html file
 - [ ] Go to the page and view the console
 - [ ] Notice the consoles and the order in which they appear
@@ -10,7 +11,7 @@ We're going to use the SWAPI API (http://swapi.co) to create a simple applicatio
 ## UPDATE STATE
 - [ ] Define a state variable called `character`
 - [ ] Get the initial value from an array of objects:
-  ```javascript
+```javascript
   {
     name: 'Luke',
     id: 1
